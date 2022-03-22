@@ -495,6 +495,11 @@ h4 {
   border-radius: 12px;
   margin-bottom: 70px;
 }
+.sub-button:hover{
+    border-radius: 12px;
+  border: solid 1px rgb(182, 182, 182);
+  background-color:#ececec;
+}
 .sub-button1 {
   width: 132px;
   height: 44px;
@@ -504,6 +509,10 @@ h4 {
   border-radius: 12px;
   border: solid 1px rgb(182, 182, 182);
   margin-bottom: 70px;
+}
+.sub-button1:hover{
+    background-color: #e2e2e2;
+    border: none;
 }
 
 /*footer*/
